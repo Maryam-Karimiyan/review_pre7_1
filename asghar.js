@@ -1,4 +1,4 @@
-// const {add}=require("./server")
+const {add}=require("./server")
 // console.log(add(2,7));
 
 // function add(x){
